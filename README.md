@@ -214,6 +214,8 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## Author – Deetech.ai (Dhruti Gaudana)
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+
 Linkedin:- https://www.linkedin.com/in/dhruti-gaudana-474995360?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqLYq1KUITMmsE83VwwhGNA%3D%3D
 
 
